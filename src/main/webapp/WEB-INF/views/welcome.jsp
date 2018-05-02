@@ -22,8 +22,8 @@
 	</c:forEach>
 	
 	<h2>
-	<c:url value="/formulaire.zzz" var="createUrl"/> 
-	<a href="${createUrl}">Creer un article</a>	
+	<c:url value="/formulaire.zzz" var="formulaireUrl"/> 
+	<a href="${formulaireUrl}">Creer un article</a>	
 	</h2>
 
 

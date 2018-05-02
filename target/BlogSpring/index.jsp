@@ -12,6 +12,8 @@
 
 
 <body>
+
+	<!-- Le tag redirect rajoute le contexte (ie /blog/) à la racine de la vue -->
 	<c:redirect url="/welcome.html" />
 
 </body>

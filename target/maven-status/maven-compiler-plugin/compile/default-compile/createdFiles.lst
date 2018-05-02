@@ -1,2 +1,3 @@
 gtm\formation\blog\presentation\IndexController.class
 gtm\formation\blog\domaine\Article.class
+gtm\formation\blog\repository\ArticleRepository.class
